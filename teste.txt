@@ -1,0 +1,9 @@
+teste de operação do servidor;
+teste automatizado dos modulos de validação de usuarios;
+teste automatizado dos modulos de pagamento;
+teste automatizado dos modulos de busca de veiculo;
+teste automatizado dos modulos transacao monetaria;
+teste automatizado dos modulos de extorno monetario;
+teste automatizado dos modulos de campanhas de desconto;
+teste automatizado dos links dos servidores;
+teste inloco que volume x de usuarios;

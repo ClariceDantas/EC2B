@@ -1,0 +1,7 @@
+O sistema deve ... cadastrar usuários
+O sistema deve ... cadastrar forma de pagamento: débito e crédito
+O sistema deve ... armazenar as preferências dos usuários
+o sistema deve ... emitir recibo de pagamento aos usuários
+o sistema deve ... gerar relatório de fechamento do dia (quantidade de viagens feitas)
+o sistema deve ... ter serviço de geolocalização
+o sistema deve ... localizar os carros mais próximos ao usuário para diminuir tempo de espera

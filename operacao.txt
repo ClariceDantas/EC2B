@@ -1,0 +1,4 @@
+O sistema será implantando em servidores em nuvem, o aplicativo estará disponível nas 
+plataformas Android e iOS.
+
+Será monitorado por ferramentas para verificação de desempenho, estabilidade, segurança.
