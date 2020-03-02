@@ -1,0 +1,11 @@
+aplicacao inicia contato com servidor;
+servidor autentica ID do dispositivo que solicitou conexcao;
+aplicacao solicita dados de veiculos proximos a localizacao enviada ao servidor;
+servidor valida se localizacao esta dentro da corbetura vigente;
+caso nao esteja retorna mensagem: "fora de local de serviço";
+caso esteja dentro retorna dados dos veiculos proximo;
+aplicacao solicita corrida ao servidor;
+servidor aprova e retrasmite a solicitacao de corrida aos veiculos proximos aos dados de localizacao recebidos;
+servidor valida o primeiro request da corrida;
+o sistema acompanha o veiculo e o usuario ate o fim da corrida para realizar a cobranca e deposito;
+o sistema atribui a nota que o usuario deu a carrida;

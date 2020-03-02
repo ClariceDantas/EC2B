@@ -1,0 +1,13 @@
+beck end em nodejs
+fronte end site em html, css e javascript
+aplicacao mobile em react e react-native
+
+aplicacao deve ter a funcionalidade de cadastro de usuarios;
+aplicacao deve ter a funcionalidade de cadastro de motoristas;
+aplicacao deve ter a funcionalidade de cadastro de dados para cobrança;
+aplicacao deve ter a funcionalidade de cadastro de dados para depositos;
+aplicacao deve ter a funcionalidade de solicitar corridas;
+aplicacao deve ter a funcionalidade de cobrar corridas;
+aplicacao deve ter a funcionalidade de depositar X valor de corridas;
+aplicacao deve ter a funcionalidade de cobra taxa de x% de valor de corridas;
+aplicacao deve ter a funcionalidade de registrar notas da qualidade das corridas
